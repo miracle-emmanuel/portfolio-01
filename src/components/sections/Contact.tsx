@@ -204,11 +204,11 @@ const Contact = () => {
               Whether you have a question or just want to say hi, feel free to reach out!
             </ContactText>
             <ContactEmail 
-              href="Miracleemmanuel995@gmail.com"
+              href="http://Miracleemmanuel995@gmail.com"
               variants={itemVariants}
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
-              aria-label="Send me an email at your.email@example.com"
+              aria-label="Send me an email at Miracleemmanuel995@gmail.com"
             >
               <FaEnvelope aria-hidden="true" />
               <span>Miracleemmanuel995@gmail.com</span>
