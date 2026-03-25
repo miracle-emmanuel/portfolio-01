@@ -230,7 +230,7 @@ const Contact = () => {
                 <span className="sr-only">GitHub</span>
               </SocialLink>
               <SocialLink 
-                href="https://linkedin.com/in/emmanuel-miracle"
+                href="https://www.linkedin.com/in/emmanuel-miracle-8375a2248?utm_source=share_via&utm_content=profile&utm_medium=member_android"
                 target="_blank"
                 rel="noopener noreferrer"
                 whileHover={{ y: -5 }}
