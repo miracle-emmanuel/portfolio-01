@@ -5,6 +5,11 @@ import { FaGithub, FaExternalLinkAlt } from 'react-icons/fa';
 import Ovie from "../../assets/img/deovie.png";
 import Dimple from "../../assets/img/dimple.png";
 import Neroks from "../../assets/img/neroks.png";
+import Beacia from "../../assets/img/Beacia.jpg";
+import Clearchoice from "../../assets/img/Clearchoice.jpg";
+import Sage from "../../assets/img/Sage.jpg";
+import Deovie2 from "../../assets/img/Deovie2.jpg";
+
 
 const ProjectsSection = styled.section`
   min-height: 100vh;
@@ -210,37 +215,37 @@ const projects = [
   },
   {
     id: 4,
-    title: "Dimple Tower",
-    description: "Dimple tower would help tourist get access to luxuary apartment all over the world at an affordable price(Project still in view)",
-    image: Dimple,
+    title: "Clear Choice Hauling",
+    description: "Hauling at the tip of all users, access to a brand that is available 24/7 to clear your trash out. ",
+    image: Clearchoice ,
  techStack: ["React", "Tailwind"],
     githubUrl: "https://github.com/miracle-emmanuel/dimplesTower",
     liveUrl: "https://dimples-tower.vercel.app/",
   },
   {
     id: 5,
-    title: "Dimple Tower",
-    description: "Dimple tower would help tourist get access to luxuary apartment all over the world at an affordable price(Project still in view)",
-    image: Dimple,
- techStack: ["React", "Tailwind"],
+    title: "Beacia Group Solutions Ltd",
+    description: "A business solutions that bridge the gap between end users and produce in the hair and fashion industry.",
+    image: Beacia,
+ techStack: ["React", "Tailwind, Supabase, Sql"],
     githubUrl: "https://github.com/miracle-emmanuel/dimplesTower",
     liveUrl: "https://dimples-tower.vercel.app/",
   },
   {
     id: 6,
-    title: "Dimple Tower",
-    description: "Dimple tower would help tourist get access to luxuary apartment all over the world at an affordable price(Project still in view)",
-    image: Dimple,
+    title: "Sage Notary & Officiant",
+    description: "A solution that help Users access easy notary and Officiant for wedding and other ceremonies",
+    image: Sage,
  techStack: ["React", "Tailwind"],
     githubUrl: "https://github.com/miracle-emmanuel/dimplesTower",
     liveUrl: "https://dimples-tower.vercel.app/",
   },
   {
     id: 7,
-    title: "Dimple Tower",
-    description: "Dimple tower would help tourist get access to luxuary apartment all over the world at an affordable price(Project still in view)",
-    image: Dimple,
- techStack: ["React", "Tailwind"],
+    title: "Deovie Solar",
+    description: "This solution has helped users access modern electrical solution easy and reliable, from the comform of their home.",
+    image: Deovie2,
+ techStack: ["React", "Tailwind"]
     githubUrl: "https://github.com/miracle-emmanuel/dimplesTower",
     liveUrl: "https://dimples-tower.vercel.app/",
   },
