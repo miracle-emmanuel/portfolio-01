@@ -245,7 +245,7 @@ const projects = [
     title: "Deovie Solar",
     description: "This solution has helped users access modern electrical solution easy and reliable, from the comform of their home.",
     image: Deovie2,
- techStack: ["React", "Tailwind"]
+ techStack: ["React", "Tailwind"],
     githubUrl: "",
     liveUrl: "https://de-ovie-solar2-1.vercel.app/",
   },
