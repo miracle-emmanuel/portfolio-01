@@ -192,7 +192,7 @@ const projects = [
     description: "A website that has solved the solution and Bridged the gap between customer and client in the tech world.",
     image: Neroks,
     techStack: ["React", "Tailwind", ,"npm", "React Router"],
-    githubUrl: "https://github.com/neroks-inc/Neroks-Integrated-Services",
+    githubUrl: "",
     liveUrl: "https://neroks-integrated-services-three.vercel.app/",
   },
   {
@@ -201,7 +201,7 @@ const projects = [
     description: "This solution has helped users access modern electrical solution easy and reliable, from the comform of their home.",
     image: Ovie,
  techStack: ["React", "Tailwind", ,"npm",],
-    githubUrl: "https://github.com/miracle-emmanuel/De_Ovie-engineering-services-",
+    githubUrl: "",
     liveUrl: "https://www.deovieengineeringservices.com.ng/",
   },
   {
@@ -210,7 +210,7 @@ const projects = [
     description: "Dimple tower would help tourist get access to luxuary apartment all over the world at an affordable price(Project still in view)",
     image: Dimple,
  techStack: ["React", "Tailwind"],
-    githubUrl: "https://github.com/miracle-emmanuel/dimplesTower",
+    githubUrl: "",
     liveUrl: "https://dimples-tower.vercel.app/",
   },
   {
@@ -219,17 +219,17 @@ const projects = [
     description: "Hauling at the tip of all users, access to a brand that is available 24/7 to clear your trash out. ",
     image: Clearchoice ,
  techStack: ["React", "Tailwind"],
-    githubUrl: "https://github.com/miracle-emmanuel/dimplesTower",
-    liveUrl: "https://dimples-tower.vercel.app/",
+    githubUrl: "",
+    liveUrl: "clear-choice-six.vercel.app",
   },
   {
     id: 5,
     title: "Beacia Group Solutions Ltd",
-    description: "A business solutions that bridge the gap between end users and produce in the hair and fashion industry.",
+    description: "A business solutions that bridge the gap between end users and produce in the hair and fashion industry(90% completed).",
     image: Beacia,
- techStack: ["React", "Tailwind, Supabase, Sql"],
-    githubUrl: "https://github.com/miracle-emmanuel/dimplesTower",
-    liveUrl: "https://dimples-tower.vercel.app/",
+ techStack: ["React", "Tailwind, Supabase, Sql, React Router"],
+    githubUrl: "",
+    liveUrl: "https://beacia-group-solutions.vercel.app/",
   },
   {
     id: 6,
@@ -237,8 +237,8 @@ const projects = [
     description: "A solution that help Users access easy notary and Officiant for wedding and other ceremonies",
     image: Sage,
  techStack: ["React", "Tailwind"],
-    githubUrl: "https://github.com/miracle-emmanuel/dimplesTower",
-    liveUrl: "https://dimples-tower.vercel.app/",
+    githubUrl: "",
+    liveUrl: "https://sagenotary.vercel.app/",
   },
   {
     id: 7,
@@ -246,8 +246,8 @@ const projects = [
     description: "This solution has helped users access modern electrical solution easy and reliable, from the comform of their home.",
     image: Deovie2,
  techStack: ["React", "Tailwind"]
-    githubUrl: "https://github.com/miracle-emmanuel/dimplesTower",
-    liveUrl: "https://dimples-tower.vercel.app/",
+    githubUrl: "",
+    liveUrl: "https://de-ovie-solar2-1.vercel.app/",
   },
   
 ];
