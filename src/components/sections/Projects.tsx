@@ -208,6 +208,42 @@ const projects = [
     githubUrl: "https://github.com/miracle-emmanuel/dimplesTower",
     liveUrl: "https://dimples-tower.vercel.app/",
   },
+  {
+    id: 4,
+    title: "Dimple Tower",
+    description: "Dimple tower would help tourist get access to luxuary apartment all over the world at an affordable price(Project still in view)",
+    image: Dimple,
+ techStack: ["React", "Tailwind"],
+    githubUrl: "https://github.com/miracle-emmanuel/dimplesTower",
+    liveUrl: "https://dimples-tower.vercel.app/",
+  },
+  {
+    id: 5,
+    title: "Dimple Tower",
+    description: "Dimple tower would help tourist get access to luxuary apartment all over the world at an affordable price(Project still in view)",
+    image: Dimple,
+ techStack: ["React", "Tailwind"],
+    githubUrl: "https://github.com/miracle-emmanuel/dimplesTower",
+    liveUrl: "https://dimples-tower.vercel.app/",
+  },
+  {
+    id: 6,
+    title: "Dimple Tower",
+    description: "Dimple tower would help tourist get access to luxuary apartment all over the world at an affordable price(Project still in view)",
+    image: Dimple,
+ techStack: ["React", "Tailwind"],
+    githubUrl: "https://github.com/miracle-emmanuel/dimplesTower",
+    liveUrl: "https://dimples-tower.vercel.app/",
+  },
+  {
+    id: 7,
+    title: "Dimple Tower",
+    description: "Dimple tower would help tourist get access to luxuary apartment all over the world at an affordable price(Project still in view)",
+    image: Dimple,
+ techStack: ["React", "Tailwind"],
+    githubUrl: "https://github.com/miracle-emmanuel/dimplesTower",
+    liveUrl: "https://dimples-tower.vercel.app/",
+  },
   
 ];
 
